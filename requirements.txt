@@ -1,3 +1,0 @@
-pyTelegramBotAPI==<versi-terbaru>
-requests
-schedule
